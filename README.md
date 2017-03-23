@@ -8,3 +8,8 @@ This paper attepets to understand when pysical systems are considered to be comp
 *Experimental Investigations of the Utility of Detailed Flowcharts in Programming.*
 
 This paper investigates the utility of detailed flowcharts as an aid to program composition, comprehension, debuging and modification. In the introduction to the paper the writers show both support and criticism for flowcharts. They also state that after a seris of experiments using naive programmers carried out by Mayer, that while usinf flowcharts may assist programming composition it hinders programming comprehension.
+
+
+*A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space.*
+
+This paper looks at how using 
